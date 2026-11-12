@@ -1,7 +1,7 @@
 # SiteCreator — High-Converting Websites & Telegram Mini Apps
 
 [![Live Demo](https://img.shields.io/badge/Live_Portfolio-creatorsiteapp.github.io-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://creatorsiteapp.github.io/)
-[![Telegram](https://img.shields.io/badge/Direct_Contact-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saduma)
+[![Telegram](https://img.shields.io/badge/Direct_Contact-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SiteCreatorCom)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 > Custom, production-ready landing pages and Web3 Telegram Mini Apps built for indie hackers, founders, and crypto projects. Delivered in 48–72 hours with flat transparent pricing.
@@ -34,5 +34,5 @@ Visit the live website: **[https://creatorsiteapp.github.io/](https://creatorsit
 
 Ready to ship your product? Reach out directly:
 
-- **Telegram:** [@saduma](https://t.me/saduma)
+- **Telegram:** [@SiteCreatorCom](https://t.me/SiteCreatorCom)
 - **Portfolio:** [https://creatorsiteapp.github.io/](https://creatorsiteapp.github.io/)
